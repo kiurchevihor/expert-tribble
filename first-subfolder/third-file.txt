@@ -1,1 +1,3 @@
-It was the third  file text
+It was the third  file text.
+
+Also changed in the main branch.

@@ -1,1 +1,3 @@
-It was the second  file text
+It was the second  file text.
+
+Changes made in the main branch.
